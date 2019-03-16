@@ -1,0 +1,30 @@
+/*CHANGE NAV MENU TO HORIZONAL ON MOBILE SCREEN*/
+@media screen and (max-width:600px){
+	.mobile_nav {
+		float: none;
+		width:100%;
+		display: block;
+		font-family: 'Open Sans', sans-serif;
+		color: #000000;
+		font-size: 50%;
+	}
+}
+/*HIDE LARGE SCREEN NAV ON MOBILE SCREEN AND MOBILE NAV ON LARGE SCREENS*/
+@media screen and (max-width: 600px) {
+	#nav {
+		display:none;
+	}
+}
+
+@media screen and (min-width:600px){
+	.mobile_nav {
+		display: none;
+	}
+}
+/*MAKE THREE COLUMNS STACK ON MOBILE SCREEN*/
+@media screen and (max-width: 600px) {
+  .column1,.column2,.column3 {
+  	float: none;
+    width: 100%;
+  }
+}
