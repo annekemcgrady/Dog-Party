@@ -12,8 +12,8 @@ Static webpage recreation and additional CSS functionality with responsive sizin
 
 **My Site**
 
-[My Dog Party Site](annekemcgrady/images/My Site 1)
-[My Dog Party Site with JS](annekemcgrady/images/My Site with JS)
+[My Dog Party Site](annekemcgrady/images/MySite)
+[My Dog Party Site with JS](annekemcgrady/images/MySiteJS)
 
 
 
