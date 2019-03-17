@@ -9,16 +9,11 @@ Static webpage recreation and additional CSS functionality with responsive sizin
 [Dog Party Comp - Screenshot](annekemcgrady/images/Comp)
 
 
-
 **My Site**
 
-<<<<<<< HEAD
-[My Dog Party Site](annekemcgrady/images/MySite)
-[My Dog Party Site with JS](annekemcgrady/images/MySiteJS)
-=======
 [My Dog Party Site](images/MySite)
 [My Dog Party Site with JS](images/MySiteJS)
->>>>>>> refs/remotes/origin/master
+
 
 
 
