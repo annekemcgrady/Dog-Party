@@ -6,13 +6,15 @@ Static webpage recreation and additional CSS functionality with responsive sizin
 **Comp**
 [Dog Party Comp Link](http://frontend.turing.io/projects/dog-party-js-edition.html)
 
-[Dog Party Comp - Screenshot](annekemcgrady/images/Comp)
+![Dog Party Comp - Screenshot](annekemcgrady/images/Comp)
 
 
 **My Site**
 
-[My Dog Party Site](images/MySite)
-[My Dog Party Site with JS](images/MySiteJS)
+![My Dog Party Site](images/MySite)
+
+
+![My Dog Party Site with JS](images/MySiteJS)
 
 
 
